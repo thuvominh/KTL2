@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.exe
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.deps.json
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.dll
+C:\Users\LENOVO\source\repos\KTL2\KTL2\bin\Debug\netcoreapp3.1\KTL2.pdb
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.dll
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.pdb
+C:\Users\LENOVO\source\repos\KTL2\KTL2\obj\Debug\netcoreapp3.1\KTL2.genruntimeconfig.cache
